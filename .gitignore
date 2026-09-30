@@ -1,0 +1,23 @@
+# node_modules
+node_modules/
+.expo/
+dist/
+web-build/
+
+# Native directories
+/ios
+/android
+
+# Environment & local
+.env*.local
+.env
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# MacOS
+.DS_Store

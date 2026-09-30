@@ -1,0 +1,17 @@
+{
+  "catalogTitle": "Product Catalog",
+  "searchPlaceholder": "Search products by keyword...",
+  "allCategory": "All",
+  "addProduct": "Add New Product",
+  "editProduct": "Edit Product",
+  "deleteProduct": "Delete Product",
+  "confirmDelete": "Are you sure you want to delete this product?",
+  "priceLabel": "Price",
+  "stockLabel": "Stock",
+  "ratingLabel": "Rating",
+  "categoryLabel": "Category",
+  "titleLabel": "Product Title",
+  "descriptionLabel": "Description",
+  "emptyState": "No products found matching your criteria.",
+  "addToCart": "Add to Favorites"
+}

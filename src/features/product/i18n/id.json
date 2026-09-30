@@ -1,0 +1,17 @@
+{
+  "catalogTitle": "Katalog Produk",
+  "searchPlaceholder": "Cari produk berdasarkan kata kunci...",
+  "allCategory": "Semua",
+  "addProduct": "Tambah Produk Baru",
+  "editProduct": "Edit Produk",
+  "deleteProduct": "Hapus Produk",
+  "confirmDelete": "Apakah Anda yakin ingin menghapus produk ini?",
+  "priceLabel": "Harga",
+  "stockLabel": "Stok",
+  "ratingLabel": "Rating",
+  "categoryLabel": "Kategori",
+  "titleLabel": "Judul Produk",
+  "descriptionLabel": "Deskripsi",
+  "emptyState": "Tidak ada produk yang sesuai kriteria.",
+  "addToCart": "Tambah ke Favorit"
+}

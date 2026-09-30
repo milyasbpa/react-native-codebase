@@ -1,0 +1,11 @@
+{
+  "title": "Welcome Back",
+  "subtitle": "Sign in to continue accessing the catalog",
+  "usernameLabel": "Username",
+  "usernamePlaceholder": "Enter username (e.g. kminchelle)",
+  "passwordLabel": "Password",
+  "passwordPlaceholder": "Enter password (e.g. 0lel25M)",
+  "submitButton": "Sign In",
+  "loginSuccess": "Successfully authenticated!",
+  "loginFailed": "Invalid credentials. Please try again."
+}

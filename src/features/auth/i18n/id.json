@@ -1,0 +1,11 @@
+{
+  "title": "Selamat Datang",
+  "subtitle": "Masuk untuk mengakses katalog produk",
+  "usernameLabel": "Nama Pengguna",
+  "usernamePlaceholder": "Masukkan username (contoh: kminchelle)",
+  "passwordLabel": "Kata Sandi",
+  "passwordPlaceholder": "Masukkan password (contoh: 0lel25M)",
+  "submitButton": "Masuk",
+  "loginSuccess": "Berhasil autentikasi!",
+  "loginFailed": "Kredensial tidak valid. Silakan coba lagi."
+}

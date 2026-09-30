@@ -1,0 +1,11 @@
+{
+  "cancel": "Cancel",
+  "save": "Save",
+  "delete": "Delete",
+  "loading": "Loading...",
+  "error": "An error occurred",
+  "success": "Operation successful",
+  "retry": "Retry",
+  "offline": "You are currently offline",
+  "search": "Search..."
+}
